@@ -1,4 +1,7 @@
+
 # number_printing
+
+```python
 def printDigits(integer):
     num=str(integer) #turn the integer into a string
     if num=='': #base case: there is no number in the certain string
@@ -75,4 +78,4 @@ def menu():
     elif function=='6':
         print('Done.') #finish the function
 menu()
-
+```
